@@ -1,4 +1,4 @@
-# InsuranceClaimEDA
+# InsuranceClaim
 
 Exploratory Data Analysis was implemented on the Insurance Claim Dataset
 
